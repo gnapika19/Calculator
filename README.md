@@ -15,14 +15,20 @@ This is a simple and interactive **Quiz Game** built using **HTML, CSS, and Java
 
 ---
 
-🛠 Technologies Used
+---
+
+## 🛠 Technologies Used
 HTML5
 
 CSS3
 
 JavaScript (ES6)
 
-📦 Future Enhancements
+---
+
+---
+
+## 📦 Future Enhancements
 Add question categories
 
 Add difficulty levels
@@ -30,4 +36,6 @@ Add difficulty levels
 Use localStorage for high scores
 
 Fetch questions from an API (e.g., Open Trivia DB)
+
+---
 
